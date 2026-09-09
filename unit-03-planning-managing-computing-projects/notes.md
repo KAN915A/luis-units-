@@ -632,6 +632,192 @@ Success measured against key factors, SMART objectives, stakeholder views.
 
 <!-- New lesson entries go below using the template above -->
 
+### Lesson — 09/09/2026 (with Luis)
+Topics covered: **Project planning with Gantt charts**, **project checkpoint reports**, **closure / post-course email**, **Project Initiation Documents (PIDs)**.
+
+---
+
+#### Topic: Project planning with a Gantt chart  •  Section: C1  •  Date: 09/09/2026
+
+**Definition / key facts**
+- A **Gantt chart** is a bar chart giving a graphical illustration of a schedule that helps to plan, coordinate and track all the tasks in a project **against a baseline** (spec definition).
+- Horizontal axis = time (days/weeks/months). Vertical axis = tasks (usually from the WBS).
+- Each task is shown as a **bar** — length = duration, start position = start date.
+- **Dependencies** shown as arrows between bars (finish-to-start most common).
+- **Milestones** shown as diamonds ♦ with no duration.
+- **Baseline** = the approved plan captured before execution starts. Progress is compared to it.
+- **Progress bar** inside each task shows % complete.
+- The **critical path** (longest chain of dependent tasks) is usually highlighted — any slippage on it slips the whole project.
+
+**Applied to a scenario (small computing project)**
+- From the WBS, list tasks (e.g. Requirements gathering, Design, Build, Unit test, UAT, Deploy).
+- Estimate durations, set predecessors, assign owners.
+- Place milestones at each stage gate (PID approved, design signed off, UAT complete, go-live).
+- Save the schedule as the **baseline** in the planning tool (MS Project, GanttProject, Smartsheet, or even Excel).
+- Update the "% complete" of each task at every checkpoint (feeds D2).
+
+**Analysis — why it matters**
+- The Gantt chart is a communication tool for **non-technical stakeholders** (sponsor, client). One glance shows: are we on track, what's next, where's the crunch?
+- Because it visualises **dependencies**, it exposes tasks that look independent but aren't (e.g. can't start "build" until "design signed off").
+- Baseline vs actual comparison **quantifies variance** (D2) — you can see slip visually before it hits the budget report.
+- Without a Gantt (or equivalent) the project has no defensible schedule → PM can't answer "when will X be done?" credibly.
+
+**Evaluation — justified judgement**
+- **Strengths:** visual, universally understood, tracks progress vs baseline, shows dependencies + critical path, integrates milestones.
+- **Weaknesses:** static snapshot if not updated regularly; heavy Gantts (100+ tasks) become unreadable; poor at showing resource conflicts (a Gantt shows time, not that Alice is double-booked); doesn't show risk.
+- **Recommendation for a small computing project:** use project planning software rather than a manual spreadsheet Gantt, because it **auto-recalculates dependencies** and the critical path when a task slips — saves hours of rework and prevents human error. Keep the Gantt to ~15–25 top-level tasks with milestones at each stage; use lower-level task lists for the team. Update at every weekly checkpoint. Justify choice of Gantt over pure milestone chart: dependencies must be visible for critical-path analysis, and a milestone chart alone doesn't show them.
+
+**Exam-answer phrases**
+- "Task B has a finish-to-start dependency on Task A, meaning…"
+- "The critical path runs through tasks A → C → E, so any slippage on these tasks will delay the go-live date."
+- "The baseline is retained so that variance can be calculated at each checkpoint."
+- "A Gantt chart is preferable to a simple milestone chart here because it shows the dependencies as well as the dates."
+
+**Common trap / examiner feedback**
+- Drawing tasks with no dependencies at all — examiner assumes candidate doesn't understand precedence.
+- Forgetting the baseline — without it, you cannot measure variance.
+- Confusing milestones (0 duration ♦) with tasks (bars) — losing marks on labels.
+
+---
+
+#### Topic: Project checkpoint reports  •  Section: D2  •  Date: 09/09/2026
+
+**Definition / key facts**
+- A **checkpoint report** is a formal record produced at each milestone (or at a set frequency, e.g. weekly) that captures **what has been achieved against the plan**.
+- Standard contents:
+  - Reporting period (from → to date).
+  - Milestones/tasks planned vs completed.
+  - **Variance** — schedule variance (days ahead/behind), cost variance (£ over/under).
+  - **RAG status** (Red / Amber / Green) for each objective or workstream.
+  - Risks — top open risks, any that were realised into issues.
+  - Issues — open issues, actions.
+  - Quality activity performed (reviews done, tests passed).
+  - Next-period plan.
+- Sits inside **D2 Monitoring and tracking progress** and feeds D3 (issues), D4 (change requests).
+
+**Applied to a scenario**
+- After each week (or at each stage gate), PM completes the report and distributes per the **communication plan** (usually sponsor + team managers).
+- The report references the **baseline plan** and the **PID objectives** so the comparison is like-for-like.
+- If a red status appears, the PM triggers escalation under **management by exception** (D3).
+
+**Analysis — why it matters**
+- Checkpoint reports create the **audit trail** — you can prove when you knew about a slip, what you did about it.
+- They give the sponsor a **one-glance** view — critical to keep sponsor attention (A4 — priority within the organisation).
+- Without them, variance is invisible until the deadline, which is too late to correct.
+- They feed lessons learned (D3 → E1) — patterns across reports (e.g. testing always overruns) are the real learnings.
+
+**Evaluation — justified judgement**
+- **Strengths:** systematic; forces measurement; provides transparency to sponsor; leaves an audit trail; supports management by exception.
+- **Weaknesses:** if too long they don't get read; if too short they hide risk; if not linked to baseline they're subjective.
+- **Recommendation:** a **one-page RAG dashboard weekly** + a **fuller report at each milestone**. Justify: weekly cadence is short enough to catch slips early (correcting a 2-day slip is cheap; a 2-month slip is not), a page long enough to be read but not so long it's ignored. Include a **trend arrow** (getting better/worse) beside each RAG — trend beats snapshot for decision-making.
+
+**Exam-answer phrases**
+- "The checkpoint report at week 4 shows a schedule variance of −3 days, therefore corrective action is required to protect the critical path."
+- "Reporting on an exception basis reduces sponsor overhead while ensuring that unforeseen issues are still escalated with their potential impact."
+
+**Common trap**
+- Writing a checkpoint report with **no variance measured** — that's a status update, not a checkpoint report. The spec words are "baseline and variance".
+- Only reporting good news — hides the real state, delays corrective action, loses trust when it eventually surfaces.
+
+---
+
+#### Topic: Closure / post-project email (professional communication)  •  Section: E1 + A6  •  Date: 09/09/2026
+
+**Definition / key facts**
+- A **closure email** is the formal written communication at project closure. Together with the signed acceptance certificate, it:
+  - Confirms that the project is **complete and accepted**.
+  - Confirms **handover** into operation and maintenance.
+  - Names the **support contact** and warranty terms.
+  - Points to the **final documentation** (PID final version, user manual, test results, lessons learned).
+  - Thanks stakeholders (professional tone — A6).
+- Structure (standard business email):
+  1. **Subject line** — clear, includes project name + "closure" (e.g. "Project X — Closure and Handover to Operations").
+  2. **Greeting** — appropriate formality for audience.
+  3. **Purpose sentence** — "This email confirms formal closure of Project X on <date>."
+  4. **Summary of delivery** — deliverables completed, UAT status, whether SMART objectives were met.
+  5. **Handover details** — who now owns the system, support contact, warranty period.
+  6. **Documentation** — where final documents live (link/drive).
+  7. **Next steps** — post-project review date, benefits-realisation review date.
+  8. **Thanks & sign-off** — named PM, contact.
+- A6 requirements: appropriate for audience, conveys meaning, fluent English, appropriate technical language, professional tone.
+
+**Applied to a scenario**
+- Sent to: sponsor + client + team managers + operations manager. Cc: dev team lead.
+- If the scenario has a lay client, keep technical detail low and reference the user manual for detail; if it's an internal IT client, technical detail can go higher.
+
+**Analysis — why it matters**
+- The closure email **formalises the transition** from project to operation — without it, ambiguity: is it still the project team's responsibility? Who handles a defect that appears next week?
+- Names the **support route**, preventing bug reports going to random developers.
+- Documents that success criteria were met — feeds E2 post-project review evidence.
+- Sets the expectation for the **benefits review** later (A4 — benefits realised).
+
+**Evaluation — justified judgement**
+- **Strengths:** written record; addressed to all key stakeholders; low cost; unambiguous handover.
+- **Weaknesses:** email alone may be missed; no verbal reinforcement; no signature/sign-off.
+- **Recommendation:** email as the **written record**, but pair it with a **formal closure meeting** where the sponsor signs the acceptance certificate. Justify: written record + verbal buy-in reduces disputes (C5 — critical decisions get both). Also request read receipts for a small distribution list — cheap assurance the message landed. Tone must be professional and match the audience per BCS/APM codes (A6).
+
+**Exam-answer phrases**
+- "The closure email formally marks the transition from the project phase to the operational phase and satisfies the E1 requirement to close the project in a controlled way."
+- "The tone and technical language are matched to the audience in line with the A6 professionalism requirements."
+
+**Common trap**
+- Treating the closure email as a "thanks all" note. It's a **formal communication with defined content** — deliverables status, handover, support, documentation, next review.
+
+---
+
+#### Topic: Project Initiation Document (PID)  •  Section: B4  •  Date: 09/09/2026
+
+**Definition / key facts**
+The **PID** is the master project document containing the key management information, produced during the **Definition** stage (A5), approved by the sponsor before **kick-off** (glossary). It is the contract between the PM and the sponsor.
+
+Full contents (from the spec — memorise these):
+1. **Document details** — title, version, date, author.
+2. **Approvals** — sponsor + PM signatures.
+3. **Distribution** — who gets a copy.
+4. **Purpose of PID** — what this document is for.
+5. **Project background** — how the project fits into the organisation.
+6. **Objectives** — written as **SMART** targets.
+7. **Scope** — statement of what IS and what IS NOT included.
+8. **Business case** — reasons, options, benefits, cost, risks (from B1).
+9. **Assumptions** — from B3.
+10. **Constraints** — deadlines, funds, staff availability, equipment, expertise, tech limits (B3).
+11. **Risk management strategy** — how risks will be identified, assessed, managed (A3, C3).
+12. **Deliverables** — the products (link to product breakdown structure, A2).
+13. **Project quality strategy** — standards used (ISO/IEC 25010, W3C), reviews, testing (A2, C4).
+14. **Stakeholders** — list with roles (B2).
+15. **Project management team structure** — organisation chart with roles.
+16. **Project plan** — schedule, Gantt, resources, budget (C1, C2).
+17. **Communication plan** — audience, method, frequency (C5).
+18. **Document management** — version control, storage, access.
+
+Also (spec): the PID has **communication and presentation requirements** — audience-appropriate, fluent English, correct technical terms, graphics where they help, appropriate tone (A6).
+
+**Applied to a scenario**
+- From the client brief, populate each section: pull objectives, rewrite as SMART; extract stakeholders, tabulate; produce the org chart; produce the Gantt (C1); write the risk strategy (C3); write the communication plan (C5).
+- Get the sponsor's sign-off before **kick-off**. No PID sign-off → no kick-off.
+
+**Analysis — why it matters**
+- The PID **baselines the project** — everything after this point that changes goes through **change management** (D4). Without a PID, "changes" and "clarifications" are indistinguishable → uncontrolled scope creep.
+- It aligns stakeholders on **one shared understanding** of scope, cost, timeline, quality. Prevents the "we thought you meant X" argument later.
+- It's the reference document for every subsequent stage: monitoring (D2) is "actual vs PID plan"; closure (E1) is "delivered vs PID scope"; post-project review (E2) is "achieved vs PID objectives".
+- Missing any single section weakens the whole project: missing risk strategy = surprises; missing scope exclusions = scope creep; missing communication plan = stakeholders unaware.
+
+**Evaluation — justified judgement**
+- **Strengths:** single source of truth; forces up-front thinking; contractually protects both parties; supports monitoring and closure.
+- **Weaknesses:** heavy to produce (2–4 weeks on a real project); if written once and never updated, becomes fiction; can create false confidence — "we have a PID" ≠ "the project is well-run".
+- **Recommendation:** a **living PID under version control** — reviewed at every stage gate, changes approved through D4 change management. Justify: reflects reality, prevents drift, supports the distinction-level requirement to "develop a detailed and complex documented solution to effectively meet all project scenario requirements". For a small project, produce a PID proportionate to the risk — every section present but concise (single-page-per-section rule of thumb); for a high-risk project (regulated, expensive, safety-critical), the PID is heavier. Include the **scope exclusions** ("what is NOT included") explicitly — arguably the single highest-value section for preventing disputes.
+
+**Exam-answer phrases**
+- "Including scope exclusions in the PID protects the project from uncontrolled requests to add functionality without a change control assessment."
+- "The PID is the baseline against which all subsequent progress is measured, so its accuracy at kick-off is critical."
+- "The communication plan section of the PID ensures that all stakeholders receive appropriate information at the appropriate frequency, satisfying the C5 requirements."
+
+**Common trap**
+- Producing a **partial PID** — the exam checklist will tick each of the 18 sections. Missing any = capped marks.
+- Objectives that aren't SMART. Distinction-level PID has objectives with numbers, dates and acceptance criteria.
+- Scope written as inclusions only, no exclusions.
+
+
 ---
 
 ## Key Terms Glossary (from the spec — use these exact definitions)
