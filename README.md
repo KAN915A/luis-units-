@@ -2,6 +2,10 @@
 
 This repository contains my coding and study notes across the units I am working through.
 
+## Course
+
+**BTEC Level 3 Extended Diploma in Computing**
+
 ## Units Covered
 
 - **Unit 3** — Planning and Managing of Computing Projects
