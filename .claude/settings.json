@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-code-settings": {
+      "source": {
+        "source": "github",
+        "repo": "feiskyer/claude-code-settings"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "claude-code-settings@claude-code-settings": true
+  }
+}
