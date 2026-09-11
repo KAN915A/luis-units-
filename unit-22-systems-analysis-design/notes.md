@@ -121,4 +121,12 @@ Each topic file uses this shape:
 
 ## Assignment Tracker
 
-<!-- Assignment tasks and progress go here -->
+### Assignment 22.1 — E-card system for Say-It-With-Cards
+Scenario: junior systems analyst at **ViraMedia** (marketing & design company) developing a new e-card system for the client **Say-It-With-Cards**.
+**Deadline: 02 October 2026** • **Target: Distinction**.
+Folder: [`assignment-22-1/`](./assignment-22-1/README.md).
+
+| # | Task | Evidence type | Grade band(s) | Status |
+| - | ---- | ------------- | ------------- | ------ |
+| 1 | Report to client on software development models + systems analysis tools & techniques applied to the e-card system | Written report | *(P/M/D — capture from page 2)* | Not started |
+| 2..n | *(To be captured from pages 2–4 of the brief)* | | | |
