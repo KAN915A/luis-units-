@@ -14,6 +14,8 @@ Folder: [`week-01/`](./week-01/README.md)
 - [Topic 3 — Data and Processes (three components + data vs information)](./week-01/03-data-and-processes.md)
 - [Topic 4 — Data and Data Flows in depth (source/use; techniques)](./week-01/04-data-and-data-flows-in-depth.md)
 - [Topic 5 — Data Flows (continued) + Processing Logic](./week-01/05-data-flows-continued-and-processing-logic.md)
+- [Topic 6 — Fig 1.8: Differences among Data, Data Flow, Processing Logic](./week-01/06-figure-1-8-worked-example.md)
+- [Topic 7 — Approaches to Systems Development: Process-Oriented](./week-01/07-process-oriented-approach.md)
 
 <!-- Add more weeks below as they are covered -->
 
