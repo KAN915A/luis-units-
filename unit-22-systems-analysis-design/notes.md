@@ -12,6 +12,8 @@ Folder: [`week-01/`](./week-01/README.md)
 - [Topic 1 — System decomposition (CD player example)](./week-01/01-system-decomposition.md)
 - [Topic 2 — Modularity, coupling, cohesion](./week-01/02-modularity-coupling-cohesion.md)
 - [Topic 3 — Data and Processes (three components + data vs information)](./week-01/03-data-and-processes.md)
+- [Topic 4 — Data and Data Flows in depth (source/use; techniques)](./week-01/04-data-and-data-flows-in-depth.md)
+- [Topic 5 — Data Flows (continued) + Processing Logic](./week-01/05-data-flows-continued-and-processing-logic.md)
 
 <!-- Add more weeks below as they are covered -->
 
