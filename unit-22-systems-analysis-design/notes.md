@@ -16,6 +16,9 @@ Folder: [`week-01/`](./week-01/README.md)
 - [Topic 5 — Data Flows (continued) + Processing Logic](./week-01/05-data-flows-continued-and-processing-logic.md)
 - [Topic 6 — Fig 1.8: Differences among Data, Data Flow, Processing Logic](./week-01/06-figure-1-8-worked-example.md)
 - [Topic 7 — Approaches to Systems Development: Process-Oriented](./week-01/07-process-oriented-approach.md)
+- [Topic 8 — Data-Oriented Approach & Process vs Data comparison (Table 1.1)](./week-01/08-data-oriented-approach-and-comparison.md)
+- [Topic 9 — Databases and Application Independence](./week-01/09-databases-and-application-independence.md)
+- [Topic 10 — Role of the Systems Analyst (People + Methods + Technology)](./week-01/10-role-of-the-systems-analyst.md)
 
 <!-- Add more weeks below as they are covered -->
 
