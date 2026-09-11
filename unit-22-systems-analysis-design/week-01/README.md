@@ -20,6 +20,7 @@ Source: `Week_One_Lecture_For_Software_Analysis_and_Design.pdf` (Luis's copy).
 | 12 | Types of Information Systems — Expert Systems (ES)                    | p. 33    | [`12-types-of-information-systems-expert-systems.md`](./12-types-of-information-systems-expert-systems.md) |
 | 13 | Fig 1.12 — Four Classes of Information Systems (TPS, MIS, DSS, ES)    | p. 34    | [`13-figure-1-12-four-classes-of-information-systems.md`](./13-figure-1-12-four-classes-of-information-systems.md) |
 | 14 | Systems Development Life Cycle (Analysis, Design, Implementation, Maintenance) | p. 35 | [`14-systems-development-life-cycle.md`](./14-systems-development-life-cycle.md) |
+| 15 | SDLC Phases (Part 1) — Planning & Selection + Systems Analysis        | p. 38    | [`15-sdlc-phases-planning-and-analysis.md`](./15-sdlc-phases-planning-and-analysis.md) |
 
 ## Learning aim mapping
 
