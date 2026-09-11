@@ -18,6 +18,8 @@ Source: `Week_One_Lecture_For_Software_Analysis_and_Design.pdf` (Luis's copy).
 | 10 | Role of the Systems Analyst (People + Methods + Technology)           | p. 28    | [`10-role-of-the-systems-analyst.md`](./10-role-of-the-systems-analyst.md) |
 | 11 | Skills of a Successful Systems Analyst (Managerial + Interpersonal)   | p. 31    | [`11-skills-of-a-successful-systems-analyst.md`](./11-skills-of-a-successful-systems-analyst.md) |
 | 12 | Types of Information Systems — Expert Systems (ES)                    | p. 33    | [`12-types-of-information-systems-expert-systems.md`](./12-types-of-information-systems-expert-systems.md) |
+| 13 | Fig 1.12 — Four Classes of Information Systems (TPS, MIS, DSS, ES)    | p. 34    | [`13-figure-1-12-four-classes-of-information-systems.md`](./13-figure-1-12-four-classes-of-information-systems.md) |
+| 14 | Systems Development Life Cycle (Analysis, Design, Implementation, Maintenance) | p. 35 | [`14-systems-development-life-cycle.md`](./14-systems-development-life-cycle.md) |
 
 ## Learning aim mapping
 

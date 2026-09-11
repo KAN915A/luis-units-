@@ -21,6 +21,8 @@ Folder: [`week-01/`](./week-01/README.md)
 - [Topic 10 — Role of the Systems Analyst (People + Methods + Technology)](./week-01/10-role-of-the-systems-analyst.md)
 - [Topic 11 — Skills of a Successful Systems Analyst (Managerial + Interpersonal)](./week-01/11-skills-of-a-successful-systems-analyst.md)
 - [Topic 12 — Types of Information Systems: Expert Systems (ES)](./week-01/12-types-of-information-systems-expert-systems.md)
+- [Topic 13 — Fig 1.12: Four Classes of Information Systems (TPS, MIS, DSS, ES)](./week-01/13-figure-1-12-four-classes-of-information-systems.md)
+- [Topic 14 — Systems Development Life Cycle (Analysis, Design, Implementation, Maintenance)](./week-01/14-systems-development-life-cycle.md)
 
 <!-- Add more weeks below as they are covered -->
 
