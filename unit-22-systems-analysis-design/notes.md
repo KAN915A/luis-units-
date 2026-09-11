@@ -19,6 +19,7 @@ Folder: [`week-01/`](./week-01/README.md)
 - [Topic 8 — Data-Oriented Approach & Process vs Data comparison (Table 1.1)](./week-01/08-data-oriented-approach-and-comparison.md)
 - [Topic 9 — Databases and Application Independence](./week-01/09-databases-and-application-independence.md)
 - [Topic 10 — Role of the Systems Analyst (People + Methods + Technology)](./week-01/10-role-of-the-systems-analyst.md)
+- [Topic 11 — Skills of a Successful Systems Analyst (Managerial + Interpersonal)](./week-01/11-skills-of-a-successful-systems-analyst.md)
 
 <!-- Add more weeks below as they are covered -->
 

@@ -16,6 +16,7 @@ Source: `Week_One_Lecture_For_Software_Analysis_and_Design.pdf` (Luis's copy).
 | 8  | Data-Oriented Approach & Process vs Data comparison (Table 1.1)      | p. 26    | [`08-data-oriented-approach-and-comparison.md`](./08-data-oriented-approach-and-comparison.md) |
 | 9  | Databases and Application Independence                                | p. 27    | [`09-databases-and-application-independence.md`](./09-databases-and-application-independence.md) |
 | 10 | Role of the Systems Analyst (People + Methods + Technology)           | p. 28    | [`10-role-of-the-systems-analyst.md`](./10-role-of-the-systems-analyst.md) |
+| 11 | Skills of a Successful Systems Analyst (Managerial + Interpersonal)   | p. 31    | [`11-skills-of-a-successful-systems-analyst.md`](./11-skills-of-a-successful-systems-analyst.md) |
 
 ## Learning aim mapping
 
