@@ -23,6 +23,8 @@ Source: `Week_One_Lecture_For_Software_Analysis_and_Design.pdf` (Luis's copy).
 | 15 | SDLC Phases (Part 1) — Planning & Selection + Systems Analysis        | p. 38    | [`15-sdlc-phases-planning-and-analysis.md`](./15-sdlc-phases-planning-and-analysis.md) |
 | 16 | SDLC Phases (Part 2) — Systems Operation (change + obsolescence)      | p. 40    | [`16-sdlc-phases-operation.md`](./16-sdlc-phases-operation.md) |
 | 17 | Approaches to Development — Prototyping & RAD                         | p. 42    | [`17-approaches-to-development-prototyping-and-rad.md`](./17-approaches-to-development-prototyping-and-rad.md) |
+| 18 | Fig 1.16 — The Prototyping Method (5-step iterative loop)             | p. 44    | [`18-figure-1-16-the-prototyping-method.md`](./18-figure-1-16-the-prototyping-method.md) |
+| 19 | Week 1 Summary (recap + mental map)                                   | p. 45    | [`19-week-1-summary.md`](./19-week-1-summary.md) |
 
 > **Gap noted:** slide 39 (likely **Systems Design** + **Systems Implementation**) was not captured. Slot in as an added topic when the slide appears.
 

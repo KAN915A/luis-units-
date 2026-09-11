@@ -26,6 +26,8 @@ Folder: [`week-01/`](./week-01/README.md)
 - [Topic 15 — SDLC Phases (Part 1): Planning & Selection + Systems Analysis](./week-01/15-sdlc-phases-planning-and-analysis.md)
 - [Topic 16 — SDLC Phases (Part 2): Systems Operation (change + obsolescence)](./week-01/16-sdlc-phases-operation.md)
 - [Topic 17 — Approaches to Development: Prototyping & RAD](./week-01/17-approaches-to-development-prototyping-and-rad.md)
+- [Topic 18 — Fig 1.16: The Prototyping Method (5-step iterative loop)](./week-01/18-figure-1-16-the-prototyping-method.md)
+- [Topic 19 — Week 1 Summary (recap + mental map)](./week-01/19-week-1-summary.md)
 
 <!-- Add more weeks below as they are covered -->
 
