@@ -20,6 +20,7 @@ Folder: [`week-01/`](./week-01/README.md)
 - [Topic 9 — Databases and Application Independence](./week-01/09-databases-and-application-independence.md)
 - [Topic 10 — Role of the Systems Analyst (People + Methods + Technology)](./week-01/10-role-of-the-systems-analyst.md)
 - [Topic 11 — Skills of a Successful Systems Analyst (Managerial + Interpersonal)](./week-01/11-skills-of-a-successful-systems-analyst.md)
+- [Topic 12 — Types of Information Systems: Expert Systems (ES)](./week-01/12-types-of-information-systems-expert-systems.md)
 
 <!-- Add more weeks below as they are covered -->
 

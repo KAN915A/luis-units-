@@ -17,6 +17,7 @@ Source: `Week_One_Lecture_For_Software_Analysis_and_Design.pdf` (Luis's copy).
 | 9  | Databases and Application Independence                                | p. 27    | [`09-databases-and-application-independence.md`](./09-databases-and-application-independence.md) |
 | 10 | Role of the Systems Analyst (People + Methods + Technology)           | p. 28    | [`10-role-of-the-systems-analyst.md`](./10-role-of-the-systems-analyst.md) |
 | 11 | Skills of a Successful Systems Analyst (Managerial + Interpersonal)   | p. 31    | [`11-skills-of-a-successful-systems-analyst.md`](./11-skills-of-a-successful-systems-analyst.md) |
+| 12 | Types of Information Systems — Expert Systems (ES)                    | p. 33    | [`12-types-of-information-systems-expert-systems.md`](./12-types-of-information-systems-expert-systems.md) |
 
 ## Learning aim mapping
 
