@@ -128,5 +128,11 @@ Folder: [`assignment-22-1/`](./assignment-22-1/README.md).
 
 | # | Task | Evidence type | Grade band(s) | Status |
 | - | ---- | ------------- | ------------- | ------ |
-| 1 | Report to client on software development models + systems analysis tools & techniques applied to the e-card system | Written report | *(P/M/D — capture from page 2)* | Not started |
-| 2..n | *(To be captured from pages 2–4 of the brief)* | | | |
+| 1 | Report to client on software development models + systems analysis tools & techniques applied to the e-card system | Written report | **22/A.P1, 22/A.P2, 22/A.M1, 22/A.D1** | Not started |
+| 2..n | *(No further tasks captured yet — pages 2 & 4 still to come)* | | | |
+
+**Task 1 criteria (verbatim):**
+- **22/A.P1** — Explain the principles of software development models.
+- **22/A.P2** — Explain the features of different systems analysis tools and techniques for modelling business processes.
+- **22/A.M1** — Assess the suitability of different systems analysis tools and techniques for modelling business processes.
+- **22/A.D1** — Evaluate the suitability of different system analysis tools and techniques for modelling business processes.

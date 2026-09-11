@@ -9,9 +9,18 @@
 | # | File                                          | Purpose                                                                                        |
 | - | --------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 1 | [`01-scenario-and-brief.md`](./01-scenario-and-brief.md) | Verbatim scenario as printed on the brief, plus the extracted requirements checklist and stakeholders. |
-| 2 | [`02-task-1-brief.md`](./02-task-1-brief.md) | Task 1 wording + suggested report skeleton + grade-band prompts (**Task 1 is a report on software development models + systems analysis tools & techniques applied to the e-card system**). |
+| 2 | [`02-task-1-brief.md`](./02-task-1-brief.md) | Task 1 wording + **P/M/D criteria (22/A.P1, P2, M1, D1)** + suggested report skeleton + grade-band prompts. |
 | … | *(next)* Task 1 evidence                      | First deliverable — the Task 1 report itself.                                                  |
-| … | *(next)* Further tasks                         | Tasks 2–n as pages 2–4 arrive. One evidence file per task.                                     |
+| … | *(next)* Further tasks                         | Tasks 2–n as pages 2 / 4 arrive. One evidence file per task.                                   |
+
+## Task 1 criteria (verbatim)
+
+- **22/A.P1** — Explain the principles of software development models.
+- **22/A.P2** — Explain the features of different systems analysis tools and techniques for modelling business processes.
+- **22/A.M1** — Assess the suitability of different systems analysis tools and techniques for modelling business processes.
+- **22/A.D1** — Evaluate the suitability of different system analysis tools and techniques for modelling business processes.
+
+Command-word ladder: **Explain → Assess → Evaluate**.
 
 ## Working plan (until pages 2–4 arrive)
 
