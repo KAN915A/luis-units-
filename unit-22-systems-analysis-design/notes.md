@@ -24,6 +24,7 @@ Folder: [`week-01/`](./week-01/README.md)
 - [Topic 13 — Fig 1.12: Four Classes of Information Systems (TPS, MIS, DSS, ES)](./week-01/13-figure-1-12-four-classes-of-information-systems.md)
 - [Topic 14 — Systems Development Life Cycle (Analysis, Design, Implementation, Maintenance)](./week-01/14-systems-development-life-cycle.md)
 - [Topic 15 — SDLC Phases (Part 1): Planning & Selection + Systems Analysis](./week-01/15-sdlc-phases-planning-and-analysis.md)
+- [Topic 16 — SDLC Phases (Part 2): Systems Operation (change + obsolescence)](./week-01/16-sdlc-phases-operation.md)
 
 <!-- Add more weeks below as they are covered -->
 
