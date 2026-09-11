@@ -22,8 +22,9 @@ Source: `Week_One_Lecture_For_Software_Analysis_and_Design.pdf` (Luis's copy).
 | 14 | Systems Development Life Cycle (Analysis, Design, Implementation, Maintenance) | p. 35 | [`14-systems-development-life-cycle.md`](./14-systems-development-life-cycle.md) |
 | 15 | SDLC Phases (Part 1) — Planning & Selection + Systems Analysis        | p. 38    | [`15-sdlc-phases-planning-and-analysis.md`](./15-sdlc-phases-planning-and-analysis.md) |
 | 16 | SDLC Phases (Part 2) — Systems Operation (change + obsolescence)      | p. 40    | [`16-sdlc-phases-operation.md`](./16-sdlc-phases-operation.md) |
+| 17 | Approaches to Development — Prototyping & RAD                         | p. 42    | [`17-approaches-to-development-prototyping-and-rad.md`](./17-approaches-to-development-prototyping-and-rad.md) |
 
-> **Gap noted:** slide 39 (likely **Systems Design** + **Systems Implementation**) was not captured. Add as topic 17 when the slide appears.
+> **Gap noted:** slide 39 (likely **Systems Design** + **Systems Implementation**) was not captured. Slot in as an added topic when the slide appears.
 
 ## Learning aim mapping
 

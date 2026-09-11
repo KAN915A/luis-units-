@@ -25,6 +25,7 @@ Folder: [`week-01/`](./week-01/README.md)
 - [Topic 14 — Systems Development Life Cycle (Analysis, Design, Implementation, Maintenance)](./week-01/14-systems-development-life-cycle.md)
 - [Topic 15 — SDLC Phases (Part 1): Planning & Selection + Systems Analysis](./week-01/15-sdlc-phases-planning-and-analysis.md)
 - [Topic 16 — SDLC Phases (Part 2): Systems Operation (change + obsolescence)](./week-01/16-sdlc-phases-operation.md)
+- [Topic 17 — Approaches to Development: Prototyping & RAD](./week-01/17-approaches-to-development-prototyping-and-rad.md)
 
 <!-- Add more weeks below as they are covered -->
 
